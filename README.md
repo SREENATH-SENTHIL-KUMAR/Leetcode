@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
