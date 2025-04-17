@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -74,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
