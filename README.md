@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2752-sum-multiples](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Geometry
