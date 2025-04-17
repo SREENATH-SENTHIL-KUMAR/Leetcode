@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2083-three-divisors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Greedy
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
