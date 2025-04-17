@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2645-pass-the-pillow](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2645-pass-the-pillow](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Number Theory
 |  |
