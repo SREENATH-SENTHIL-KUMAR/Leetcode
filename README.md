@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0461-hamming-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
