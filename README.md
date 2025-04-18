@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
