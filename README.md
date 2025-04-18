@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
