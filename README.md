@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0001-two-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0461-hamming-distance) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
