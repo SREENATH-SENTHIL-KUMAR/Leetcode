@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0899-binary-gap) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
