@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1086-divisor-game) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
