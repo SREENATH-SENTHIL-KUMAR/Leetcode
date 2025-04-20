@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0899-binary-gap) |
+| [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
