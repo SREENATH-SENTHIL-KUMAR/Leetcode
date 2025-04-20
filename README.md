@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -171,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
