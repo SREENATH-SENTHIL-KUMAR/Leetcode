@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
