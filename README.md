@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2857-total-distance-traveled](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2645-pass-the-pillow](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2857-total-distance-traveled](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2857-total-distance-traveled) |
 ## Number Theory
 |  |
 | ------- |
