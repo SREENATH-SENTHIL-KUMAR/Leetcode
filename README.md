@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
