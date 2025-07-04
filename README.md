@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0202-happy-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0367-valid-perfect-square) |
