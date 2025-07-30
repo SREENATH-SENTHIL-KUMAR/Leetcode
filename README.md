@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [3321-type-of-triangle](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3321-type-of-triangle) |
