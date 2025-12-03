@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
