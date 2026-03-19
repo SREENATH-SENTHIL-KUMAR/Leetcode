@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0075-sort-colors) |
