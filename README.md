@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
