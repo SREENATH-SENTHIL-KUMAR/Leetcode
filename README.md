@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2427-first-letter-to-appear-twice](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
