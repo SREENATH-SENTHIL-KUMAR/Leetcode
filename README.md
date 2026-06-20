@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0231-power-of-two) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0917-reverse-only-letters) |
