@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SREENATH-SENTHIL-KUMAR/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Sliding Window
